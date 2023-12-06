@@ -1,0 +1,4 @@
+﻿  cp a6 p4.cpp
+E:\.vscode\cp a6 p4\cp a6 p4\cp a6 p4.cpp(34,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\.vscode\cp a6 p4\cp a6 p4\cp a6 p4.cpp(44,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cp a6 p4.vcxproj -> E:\.vscode\cp a6 p4\x64\Debug\cp a6 p4.exe
